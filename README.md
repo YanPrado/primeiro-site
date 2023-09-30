@@ -14,7 +14,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Yan Prado
 ### https://www.linkedin.com/in/yan-barbosa-prado-1364a2175/
 
 ```
